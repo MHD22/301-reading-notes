@@ -21,6 +21,7 @@
 * The following are the most commonly used events:
 
 * ***Mouse Events:***
+
 `click` occurs when an element is clicked.
 
 `dblclick` occurs when an element is double-clicked.
@@ -33,6 +34,7 @@
 
 
 * ***Keyboard Events:***
+
 `input`
 
 `keydown` occurs when a keyboard key is pressed down.
@@ -41,6 +43,7 @@
 
 
 * ***Form Events:***
+
 `submit` occurs when a form is submitted.
 
 `change` occurs when the value of an element has been changed.
