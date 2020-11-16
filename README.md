@@ -6,10 +6,10 @@
 
 | Read#    |  Link       |
 | -------  | -------     |
-| Read 1   | [Link 1]()  |
-| Read 2   | [Link 2]()  |
-| Read 3   | [Link 3]()  |
-| Read 4   | [Link 4]()  |
+| Read 1   | [Link 1](https://mhd22.github.io/301-reading-notes/read-01)  |
+| Read 2   | [Link 2](https://mhd22.github.io/301-reading-notes/read-02)  |
+| Read 3   | [Link 3](https://mhd22.github.io/301-reading-notes/)  |
+| Read 4   | [Link 4](https://mhd22.github.io/301-reading-notes/)  |
 | Read 5   | [Link 5]()  |
 | Read 6   | [Link 6]()  |
 | Read 7   | [Link 7]()  |
