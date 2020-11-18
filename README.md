@@ -10,7 +10,7 @@
 | Read 2   | [Link 2](https://mhd22.github.io/301-reading-notes/read-02)  |
 | Read 3   | [Link 3](https://mhd22.github.io/301-reading-notes/read-03)  |
 | Read 4   | [Link 4](https://mhd22.github.io/301-reading-notes/read-04)  |
-| Read 5   | [Link 5](https://mhd22.github.io/301-reading-notes/read-04)  |
+| Read 5   | [Link 5](https://mhd22.github.io/301-reading-notes/read-05)  |
 | Read 6   | [Link 6](https://mhd22.github.io/301-reading-notes/read-04)  |
 | Read 7   | [Link 7](https://mhd22.github.io/301-reading-notes/read-04)  |
 | Read 8   | [Link 8](https://mhd22.github.io/301-reading-notes/read-04)  |
